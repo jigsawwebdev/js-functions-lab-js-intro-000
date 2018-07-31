@@ -11,7 +11,3 @@ function happyHolidaysTo(name) {
 happyHolidaysTo(Bill)
 
 
-function happyHolidaysTo(holiday, name) {
-  return `Happy ${holiday}, ${name}!`
-}
-happyHolidaysTo(Easter, Susan)
